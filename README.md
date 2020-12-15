@@ -18,7 +18,19 @@ La practica de este laboratorio consiste en hacer la configuración en un circui
 
 - Verificar las leyes de Kirchhoff: Ley de Mallas y ley de Nodos.
 
-### 2. MARCO TEÓRICO
+### 2. MATERIALES Y EQUIPOS REQUERIDOS
+
+| Cantidad | Material de Equipo |
+| ------ | ------ |
+| 1 | Fuente de Voltaje de C.D.|
+| 2 | Multímetros de Dijítales
+| 1| Resistor de 1 kΩ|
+| 2 | Resistores de 2.2 kΩ |
+| 1 | Resistor de 1.8  kΩ |
+| 1 | Resistor de 3.9  kΩ |
+| 1 | Protoboard |
+
+### 3 MARCO TEÓRICO
 
 Gustav Kirchhoff (1824-1887) fue un físico alemán nacido en marzo de 1824 en la entonces Prusia oriental. Durante su carrera científica realizó importantes contribuciones en campos como la electricidad, la espectroscopia o la medición de radiaciones de los cuerpos negros. 
 
@@ -71,19 +83,45 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 
  V3 = I3 (R4 + R5) – I2 (R4)
 
-### 3.DIAGRAMA
+### 4. PROCEDIMIENTO
 
-### 4. LISTA DE COMPONENTES
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+| VARIABLE | VALOR CALCULADO | VALOR MEDIO |
+| ------ | ------ | ------ |
+| VR1 (V) | 2.05  | 2.05 |
+| IR1 (mA) | 2.60   | 2.59 |
+| VR2 (V) | 4.251 | 4.25 |
+| IR2 (mA) | 3.57 | 3.57 |
+| VR3 (V) | 2.11 | 2.12 |
+| IR3 (mA) | 1.51 | 1.52 |
+| VR4 (V) | 2.11 | 2.12 |
+| IR4 (mA) | 1.51 | 1.52 |
+| VR5 (V) | 3.69 | 3.70 |
+| IR5 (mA) | 3.26 | 3.60 |
+
+Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
+considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
+signo negativo. Anote los resultados en la tabla 1.2.
+
+Tabla 1.2. Verificación de la LVK.
+
+| VOLTAJE | TRAYECTORIA 1 | TRAYECTORIA 2 |
+| ------ | --- | -- | -- | -- |
+| VT (V) |
+| VR1   |     |
+| VR2 (V) |     |     |
+| VR3 (V)    |     |
+| VR3 (V) |    |    |
+| VR4 (V) |    |    |
+| VR5 (V) |    |    |
+| ∑ V |    |    |
+| % ERROR |      
 
 
+### 5. DIAGRAMA
 
-### 5. EXPLICACIÓN
-
-### 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
-
-### 7. APORTACIONES 
-
-### 9. CONCLUSIONES 
+### 10. CONCLUSIONES 
 
 - Hemos descubierto de forma teórica los valores de la corriente y del voltaje que fluye por cada una de las resistencias del circuito, mediante del simulador online para lo cual usamos las reglas de Kirchhoff. 
 
@@ -92,7 +130,7 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 - Los valores de corriente fueron también determinados a partir del método de mallas, y al tener nuestras ecuaciones con la ayuda matrices pudimos obtener los valores teóricos  
   de la corriente y por ende los voltajes, además y se puede apreciar que los valores casi son los mismos.
 
-### 10. BIBLIOGRAFÍA 
+### 11. BIBLIOGRAFÍA 
 
 https://www.lifeder.com/gustav-kirchhoff/
 
@@ -101,4 +139,4 @@ https://www.academia.edu/6820754/LABORATORIO_No_3_LEYES_DE_KIRCHOFF
 https://www.ecured.cu/Leyes_de_Kirchhoff
 
 
-### 11. ANEXOS
+
