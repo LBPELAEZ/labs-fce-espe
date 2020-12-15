@@ -1,3 +1,13 @@
+# UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE #
+
+| Integrantes: | Edison Cadena, Lissandro Peláez |
+| ------|------|
+| Carrera: | Electrónica y Automatización |
+| Materia:| Fundamentos de Circuitos Eléctricos (Laboratorio) |
+| NRC:| 4872 |
+
+## INFORME DE LABORATORIO #1
+
 # LEYES DE KIRCHHHOFF
 
 #### RESUMEN
@@ -83,43 +93,6 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 
  V3 = I3 (R4 + R5) – I2 (R4)
 
-### 4. PROCEDIMIENTO
-
-Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
-
-| VARIABLE | VALOR CALCULADO | VALOR MEDIO |
-| ------ | ------ | ------ |
-| VR1 (V) | 2.05  | 2.05 |
-| IR1 (mA) | 2.60   | 2.59 |
-| VR2 (V) | 4.251 | 4.25 |
-| IR2 (mA) | 3.57 | 3.57 |
-| VR3 (V) | 2.11 | 2.12 |
-| IR3 (mA) | 1.51 | 1.52 |
-| VR4 (V) | 2.11 | 2.12 |
-| IR4 (mA) | 1.51 | 1.52 |
-| VR5 (V) | 3.69 | 3.70 |
-| IR5 (mA) | 3.26 | 3.60 |
-
-Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
-considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
-signo negativo. Anote los resultados en la tabla 1.2.
-
-Tabla 1.2. Verificación de la LVK.
-
-| VOLTAJE | TRAYECTORIA 1 | TRAYECTORIA 2 |
-| ------ | --- | -- | -- | -- |
-| VT (V) |
-| VR1   |     |
-| VR2 (V) |     |     |
-| VR3 (V)    |     |
-| VR3 (V) |    |    |
-| VR4 (V) |    |    |
-| VR5 (V) |    |    |
-| ∑ V |    |    |
-| % ERROR |      
-
-
-### 5. DIAGRAMA
 
 ### 10. CONCLUSIONES 
 
