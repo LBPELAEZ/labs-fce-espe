@@ -2,6 +2,9 @@
 
 #### INTEGRANTES: EDISON CADENA - LISSANDRO PELAEZ
 
+![WaterPy: poner marcas de agua con Python]
+
+
 #### RESUMEN
 
 La practica de este laboratorio consiste en hacer la configuración en un circuito eléctrico con resistores organizados en serie y en paralelo, se calcula la corriente en puntos específicos y la corriente resultante por métodos, exclusivamente matemáticos y por medio de voltaje o voltímetro, para concluir compararamos los resultados verificar las leyes de Kirchhoff.
@@ -84,8 +87,8 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 
 Los componentes para relaizar el laboratorio son los siguientes:
 
-![tabla%202.jpg]
-(https://github.com/eddy90cg/labs-fce-espe/blob/master/img/tabla%202.jpg)
+![WaterPy: poner marcas de agua con Python](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/tabla%201.jpg) 
+
 
 ### 5. EXPLICACIÓN
 
