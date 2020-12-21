@@ -75,8 +75,7 @@ Consiste en plantear las corrientes de cada malla como su intensidad por su resi
 
 ### 3.DIAGRAMA
 
-![Diagrama%20circuito%20resistivo%20mixto.jpg]
-(https://github.com/eddy90cg/labs-fce-espe/blob/main/img/Diagrama%20circuito%20resistivo%20mixto.jpg)
+![](https://raw.githubusercontent.com/eddy90cg/labs-fce-espe/master/img/Diagrama%20circuito%20resistivo%20mixto.jpg)
 
 
 
